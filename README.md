@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @codexcancerion
-- 👀 I’m interested in learning Full Stack Web Development
-- 🌱 I’m currently learning Next.js
-- 💞️ I’m looking to collaborate on building awesome projects
-- 😄 Pronouns: He/Him/Idol
+## 👋 Hey, I’m **codexcancerion**
 
-<!---
-codexcancerion/codexcancerion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full-stack dreamer. Code explorer. Curious human.
+Building my way from fundamentals to full-blown web magic.
+
+### 🚀 What I’m Up To
+
+* 🌱 Currently leveling up with **Next.js**
+* 👀 Deeply into **Full Stack Web Development**
+* 💡 Always down to collaborate on **awesome, meaningful projects**
+* 😄 Pronouns: **He/Him/Idol**
+
+### ⚡ A Little Extra
+
+I write code the way others ride waves—leaning in, learning fast, and never afraid to wipe out if it means leveling up.
+
+***Horayt!***
