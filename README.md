@@ -15,7 +15,6 @@ Building my way from fundamentals to full-blown web magic.
 <p align="center">
   <img src="https://img.shields.io/github/followers/codexcancerion?style=for-the-badge&logo=github&label=Followers" />
   <img src="https://img.shields.io/github/stars/codexcancerion?style=for-the-badge&logo=github&label=Stars" />
-  <img src="https://img.shields.io/github/commit-activity/y/codexcancerion?style=for-the-badge&logo=github&label=Commit%20Activity" />
 </p>
 
 <p align="center">
