@@ -12,6 +12,6 @@ Building my way from fundamentals to full-blown web magic.
 
 ### ⚡ A Little Extra
 
-I write code the way others ride waves—leaning in, learning fast, and never afraid to wipe out if it means leveling up.
+I write code the way others ride waves, leaning in, learning fast, and never afraid to wipe out if it means leveling up.
 
 ***Horayt!***
