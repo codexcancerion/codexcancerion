@@ -13,8 +13,9 @@ Building my way from fundamentals to full-blown web magic.
 ### ⚡ GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=codexcancerion&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codexcancerion&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://img.shields.io/github/followers/codexcancerion?style=for-the-badge&logo=github&label=Followers" />
+  <img src="https://img.shields.io/github/stars/codexcancerion?style=for-the-badge&logo=github&label=Stars" />
+  <img src="https://img.shields.io/github/commit-activity/y/codexcancerion?style=for-the-badge&logo=github&label=Commit%20Activity" />
 </p>
 
 <p align="center">
