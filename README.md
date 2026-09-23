@@ -21,12 +21,6 @@ Building my way from fundamentals to full-blown web magic.
   <img src="https://streak-stats.demolab.com/?user=codexcancerion&theme=tokyonight&hide_border=true" />
 </p>
 
-### 🧭 Currently Building
-
-> **Code. Learn. Build. Repeat.**
-
-Full-stack development, AI-powered systems, and meaningful digital solutions.
-
 ### ⚡ A Little Extra
 
 I write code the way others ride waves, leaning in, learning fast, and never afraid to wipe out if it means leveling up.
